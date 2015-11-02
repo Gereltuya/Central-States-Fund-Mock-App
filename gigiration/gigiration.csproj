@@ -91,6 +91,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Download Forms.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config" />
     <Content Include="Service References\Application Insights\ConnectedService.json" />
@@ -112,6 +113,7 @@
     <Content Include="index.html" />
     <Content Include="main.js" />
     <Content Include="teamcare.png" />
+    <Content Include="teamcare2.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
