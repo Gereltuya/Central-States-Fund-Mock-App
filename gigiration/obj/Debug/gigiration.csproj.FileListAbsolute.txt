@@ -30,3 +30,35 @@ C:\Users\Adrian Arroyo\Source\Repos\Central-States-Fund-Mock-App\gigiration\bin\
 C:\Users\Adrian Arroyo\Source\Repos\Central-States-Fund-Mock-App\gigiration\obj\Debug\gigiration.csprojResolveAssemblyReference.cache
 C:\Users\Adrian Arroyo\Source\Repos\Central-States-Fund-Mock-App\gigiration\obj\Debug\gigiration.dll
 C:\Users\Adrian Arroyo\Source\Repos\Central-States-Fund-Mock-App\gigiration\obj\Debug\gigiration.pdb
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\csc.exe
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\vbc.exe
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\gigiration.dll.config
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\gigiration.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\gigiration.pdb
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.Extensibility.DependencyCollector.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.Extensibility.PerfCounterCollector.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.Web.TelemetryChannel.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.Extensibility.DependencyCollector.xml
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.ApplicationInsights.Web.TelemetryChannel.xml
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\obj\Debug\gigiration.csprojResolveAssemblyReference.cache
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\obj\Debug\gigiration.dll
+C:\Users\Gereltuya\Documents\Visual Studio 2015\Projects\Gereltuya\gigiration\obj\Debug\gigiration.pdb
