@@ -114,7 +114,6 @@
     <Content Include="main.js" />
     <Content Include="teamcare.png" />
     <Content Include="teamcare2.png" />
-    <Content Include="Template.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
