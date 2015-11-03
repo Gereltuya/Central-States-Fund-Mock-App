@@ -93,6 +93,7 @@
   <ItemGroup>
     <Content Include="home.html" />
     <Content Include="Download Forms.html" />
+    <Content Include="patient_home.html" />
     <Content Include="jquery.mobile-1.4.5.min.js" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config" />
