@@ -91,16 +91,36 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Benefitsandaccumulators.html" />
+    <Content Include="dentalinfo.html" />
+    <Content Include="contactpage.html" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Eligibility.html" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="home.html" />
     <Content Include="Download Forms.html" />
-    <Content Include="patient_home.html" />
     <Content Include="jquery.mobile-1.4.5.min.js" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <None Include="Scripts\jquery-2.1.4.intellisense.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-2.1.4.js" />
+    <Content Include="Scripts\jquery-2.1.4.min.js" />
     <Content Include="Service References\Application Insights\ConnectedService.json" />
     <Content Include="bootstrap-theme.css.map" />
     <Content Include="bootstrap.css.map" />
     <None Include="Properties\PublishProfiles\gigiration.pubxml" />
+    <Content Include="Scripts\jquery-2.1.4.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -117,7 +137,9 @@
     <Content Include="main.js" />
     <Content Include="teamcare.png" />
     <Content Include="teamcare2.png" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
